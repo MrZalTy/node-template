@@ -21,10 +21,6 @@
     "jest",
     "prettier"
   ],
-  "ignorePatterns": [
-    "node_modules",
-    "dist"
-  ],
   "rules": {
   }
 }
